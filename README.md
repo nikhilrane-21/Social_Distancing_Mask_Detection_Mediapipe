@@ -9,7 +9,7 @@
   3. Unique Id assigned to each person
   4. Detect if people are wearing mask or not.
   5. Detect if two people are close to one another and are not practising social distance.
-  6. 
+ 
 
 
 ### Setup Instructions
