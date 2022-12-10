@@ -10,10 +10,12 @@
   4. Detect if people are wearing mask or not.
   5. Detect if two people are close to one another and are not practising social distance.
  
-
+### Demo
+- see demo.mp4
 
 ### Setup Instructions
 1. Create and activate a virtual environment
 2. Install dependencies `pip install -r requirements.txt`
 3. Run main.py file for starting project `python main.py`
+
 
