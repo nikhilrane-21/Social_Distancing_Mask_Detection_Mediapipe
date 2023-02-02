@@ -11,11 +11,15 @@
   5. Detect if two people are close to one another and are not practising social distance.
  
 ### Demo
-- see demo.mp4
+https://user-images.githubusercontent.com/99159420/216457830-2c1df85e-f542-4301-a6d8-d8ca98781d52.mp4
 
 ### Setup Instructions
 1. Create and activate a virtual environment
 2. Install dependencies `pip install -r requirements.txt`
 3. Run main.py file for starting project `python main.py`
+
+
+
+
 
 
